@@ -1,0 +1,50 @@
+TRAZELIO DIGITAL · WEB COMERCIAL MULTIPÁGINA
+
+ESTRUCTURA
+- index.html             Inicio
+- servicios.html         Servicios
+- nosotros.html          Sobre nosotros
+- contacto.html          Contacto
+- aviso-legal.html       Aviso legal (requiere completar datos)
+- privacidad.html        Política de privacidad (requiere verificar tratamientos)
+- cookies.html           Política de cookies (requiere auditoría del despliegue)
+- styles.css / script.js Diseño adaptable y navegación/preferencias
+- assets/                Logotipos originales e imágenes suministradas
+
+IDENTIDAD
+Se han utilizado los logotipos vectoriales originales incluidos en el ZIP del usuario y piezas gráficas PNG de la carpeta piezas. Colores: Azul Trazo #1F2A6B, Coral Sol #FF6B4A, Turquesa Brisa #2EC4B6, Crema #FFF7EE, Niebla #E8E9F3. Tipografías Poppins e Inter.
+
+PUBLICACIÓN
+Google Sites no importa un ZIP ni una carpeta HTML como sitio nativo. Para conservar esta web multipágina:
+1) Descomprime la carpeta.
+2) Publica su contenido en un hosting estático (Netlify, GitHub Pages u otro).
+3) Usa la URL pública para enlazar la web desde Google Sites o incorporar páginas mediante Insertar > Incorporar > URL.
+También puedes reconstruir la estructura en Google Sites usando textos e imágenes de esta carpeta, pero no se importará automáticamente el diseño/código.
+
+DATOS INCORPORADOS
+- Nombre comercial: Trazelio Digital.
+- Actividad declarada: autónomo.
+- NIF facilitado: 12345678Z.
+- Correo: trazelio.digital@gmail.com.
+- Domicilio facilitado: Pasaje Virgen de Belén, 7.
+- Teléfono: 627 455 597.
+- Instagram: @trazelio.digital.
+
+PENDIENTE IMPRESCINDIBLE ANTES DE PUBLICAR
+1) Se ha incorporado “Trazelio Digital” como titular y denominación legal, según confirmación expresa del usuario.
+2) Verificar que el NIF facilitado (12345678Z) coincide exactamente con el documento oficial.
+3) Completar el domicilio con código postal y localidad en aviso-legal.html y privacidad.html.
+4) Identificar los proveedores reales de alojamiento, correo y gestión; revisar encargados y transferencias internacionales. Si se utiliza Google Sites o se incrusta la web, revisar también las condiciones y tecnologías de Google.
+5) Determinar los plazos/criterios de conservación de datos según la actividad real.
+6) Auditar cookies y almacenamiento en la URL definitiva. El banner incluido es demostrativo y no sustituye un gestor de consentimiento real ni bloquea scripts de terceros.
+7) Revisar los textos legales con asesoría especializada antes de publicar.
+
+AVISO SOBRE COOKIES
+El banner incluido es un ejemplo funcional básico: guarda preferencias en localStorage. No bloquea por sí solo cookies de terceros ni scripts de analítica/marketing. No debe considerarse un sistema de gestión de consentimiento certificado ni una garantía de cumplimiento. Esta entrega no añade analítica ni píxeles.
+
+CONTENIDO
+Los textos de servicios, público objetivo, proceso y tono se han elaborado a partir del Manual de Identidad y la Presentación Comercial facilitados. No se han inventado correo, teléfono, domicilio, NIF, razón social ni testimonios.
+
+
+PUBLICACIÓN EN GOOGLE SITES
+Google Sites no importa directamente este ZIP como una web multipágina. Para mantener el diseño y navegación de esta entrega, publica primero la carpeta en un alojamiento estático (por ejemplo, Netlify o GitHub Pages) y después incorpora su URL en Google Sites mediante Insertar > Incorporar > URL. Alternativamente, reconstruye las páginas manualmente en Google Sites usando los textos e imágenes de la carpeta.
