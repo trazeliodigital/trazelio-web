@@ -25,3 +25,13 @@ footer{background:var(--blue);color:#fff;padding:38px 0 22px}.footer-top{display
 .mini-grid h4{font-family:Poppins,Arial,sans-serif;font-size:.7rem;margin:0 0 4px;color:var(--blue);line-height:1.2}
 .mini-grid p{font-size:.6rem;margin:0;line-height:1.35;color:var(--ink)}
 @media(max-width:920px){.mini-grid{grid-template-columns:repeat(2,1fr)}}
+
+/* Revisión gratuita de la web */
+.review-section{padding-top:18px}
+.review-box{display:flex;align-items:center;justify-content:space-between;gap:38px;background:var(--blue);color:#fff;border-radius:28px;padding:clamp(28px,5vw,54px);box-shadow:var(--shadow)}
+.review-copy{max-width:760px}
+.review-copy .eyebrow{color:var(--teal)}
+.review-copy h2{color:#fff;margin-bottom:14px}
+.review-copy p{color:#e8eaf7;font-size:1.04rem;margin:0;max-width:760px}
+.review-button{flex:none;white-space:nowrap}
+@media(max-width:680px){.review-box{align-items:flex-start;flex-direction:column;gap:22px}.review-button{width:100%}}
